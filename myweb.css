@@ -4,7 +4,7 @@ html{
 
 
 body{
-    background:lightgoldenrodyellow;
+    background:black;
 }
 
 
@@ -56,7 +56,7 @@ h1{
     left: 0;
     height: 100%;
     width: 100%;
-    background: lightgoldenrodyellow;
+    background: rgb(0, 0, 0);
     border-left: 3px solid royalblue;
     animation: typing 5s steps(30) infinite;
     
@@ -70,7 +70,7 @@ ul {
     margin: 50;
     padding: 15;
     overflow: hidden;
-    background-color:green;
+    background-color:rgb(128, 0, 23);
   }
   
   li {
@@ -215,42 +215,42 @@ h7{
 
 #charles{
     height: 700px;
-    background: lightgoldenrodyellow;
+    background: black;
     display: inline-block;
     width: 100%;
 }
 
 #about{
     height: 700px;
-    background: lightgoldenrodyellow;
+    background: black;
     display: inline-block;
     width: 100%;
 }
 
 #skills{
     height: 700px;
-    background: lightgoldenrodyellow;
+    background: black;
     display: inline-block;
     width: 100%;
 }
 
 #projects{
     height: 700px;
-    background: lightgoldenrodyellow;
+    background: black;
     display: inline-block;
     width: 100%;
 }
 
 #resume{
     height: 700px;
-    background: lightgoldenrodyellow;
+    background: black;
     display: inline-block;
     width: 100%;
 }
 
 #contact{
     height: 700px;
-    background: lightgoldenrodyellow;
+    background: black;
     display: inline-block;
     width: 100%;
 }
@@ -276,7 +276,7 @@ h9{
     font-size: 16px;
     padding: 24px;
     color: black;
-    background: gold;
+    background: rgb(0, 255, 229);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
     border-radius: 5px;
     border-right: 8px silver solid;
